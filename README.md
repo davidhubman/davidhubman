@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🔭 I’m currently working on my final proyect at Henry's bootcamp
+🌱 At the time, learning TypeScript and React Native
+
+⚡ Fun fact: I allways feel like knowing alot more of programming languages, and, at the same time, filling like knowing nothing, it's kind of weird 😄
+💬 You can ask me about handeling soft skills, for SHURE I can help you with that!
+
+📫 How to reach me by linkedIn: https://www.linkedin.com/in/davidalejandrojacome/
+
 <!--
 **davidhubman/davidhubman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
